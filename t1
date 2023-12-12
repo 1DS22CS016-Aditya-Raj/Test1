@@ -3,9 +3,13 @@ void main()
 {
   add();//add
   sub();//subtract
-  mul();//multiplication
+  mul();
+  {
+    printf("PRODUCT");
+  }//multiplication
   div();
   {
     printf("DIVISON);
   }//division
+
 }
