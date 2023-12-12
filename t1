@@ -4,5 +4,8 @@ void main()
   add();//add
   sub();//subtract
   mul();//multiplication
-  div();//division
+  div();
+  {
+    printf("DIVISON);
+  }//division
 }
