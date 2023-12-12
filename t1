@@ -3,7 +3,7 @@ void main()
 {
   add();//add
   sub();//subtract
-  mul();
+  mul();//yo
   {
     printf("PRODUCT");
   }//multiplication
